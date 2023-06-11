@@ -2,7 +2,7 @@ log
 config.dev.json
 config.json
 # Git
-.git
+git
 .gitignore
 .gitattributes
 
